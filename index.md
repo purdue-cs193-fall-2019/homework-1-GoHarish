@@ -1,5 +1,5 @@
-#Gowri's First CS193 Homework
-#My favorite things about CS 193 are:
+# Gowri's First CS193 Homework
+# My favorite things about CS 193 are:
 - Lectures
 - No exams
 - Information about the call outs
