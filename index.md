@@ -1,8 +1,10 @@
 #Gowri's First CS193 Homework
--Lectures
--No exams
--Information about the call outs
--Nice TAs
+#My favorite things about CS 193 are:
+- Lectures
+- No exams
+- Information about the call outs
+- Nice Instructors
+
 
 
 ## Welcome to GitHub Pages
@@ -21,7 +23,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-###### Header 6
 
 - Bulleted
 - List
